@@ -1,0 +1,27 @@
+{
+  "name": "power-mcp",
+  "version": "1.0.0",
+  "description": "A powerful mcp",
+  "main": "index.js",
+  "bin": {
+    "power-mcp": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arungeorgesaji/power-mcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arungeorgesaji/power-mcp/issues"
+  },
+  "homepage": "https://github.com/arungeorgesaji/power-mcp#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.0"
+  }
+}
